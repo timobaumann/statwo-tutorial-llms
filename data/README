@@ -1,0 +1,23 @@
+Textkodierung:
+
+alle Dateien sind UTF-8 kodiert. Wenn Sie den Eindruck haben, dass in Ihrem Programm Umlaute und scharfes S nicht richtig dargestellt werden, dann lesen Sie die Datei bitte als utf-8.
+In Python3: open(Filename, 'r', encoding='utf-8')
+
+lyrik-de.txt:
+
+# Diese Datei enthält eine Sammlung von lyrischen Texten.
+# Inhalt: 
+# - deutschestextarchiv.de/search -> "lyrik" 1800- ; anschließend als Texte runtergeladen und Seitenzahlen/Seitenumbrüche/Inhaltsverzeichnisse etc. entfernt (offenbar gibt's noch viel mehr, ich habe wohl nur einen Teil runtergeladen. Oh well.)
+# - www.slampoet.de/texte.php -> alles was Media "Text" und Textart "Lyrik" ist.
+
+shakespeare-en.txt:
+
+https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt aber ohne den Header
+
+merkel-de.txt:
+
+Transkripte aus 16 Jahren Video Podcasts der Bundeskanzlerin a.D. Angela Merkel
+
+dialoge-de.txt:
+
+Dialoge zu Terminabsprachen aus dem Verbmobil-Projekt
